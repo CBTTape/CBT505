@@ -1,0 +1,7 @@
+2023-04-03 00:47:29.703564 - Initialized conversion of CBT505
+2023-04-03 00:47:29.744077 - Received CBT.V504.FILE505.PDS from FILE505.XMI 
+2023-04-03 00:47:29.746458 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE505.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:47:29.747557 - Found $$MAN.txt (text/plain) in CBT.V504.FILE505.PDS, moved to PDS/$$MAN
+2023-04-03 00:47:29.748533 - Found $DOC.txt (text/plain) in CBT.V504.FILE505.PDS, moved to PDS/$DOC
+2023-04-03 00:47:29.749515 - Found @FILE505.txt (text/plain) in CBT.V504.FILE505.PDS, moved to PDS/@FILE505
+2023-04-03 00:47:29.750395 - Found @TEST.txt (text/plain) in CBT.V504.FILE505.PDS, moved to PDS/@TEST
