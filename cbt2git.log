@@ -1,6 +1,6 @@
-2025-04-15 03:00:49.902079 - Received CBT.V508.FILE505.PDS from FILE505.XMI 
-2025-04-15 03:00:49.903214 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:00:49.903573 - Found $$MAN.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$$MAN
-2025-04-15 03:00:49.903739 - Found $DOC.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$DOC
-2025-04-15 03:00:49.903917 - Found @FILE505.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/@FILE505
-2025-04-15 03:00:49.904124 - Found @TEST.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/@TEST
+2025-04-15 21:50:30.594547 - Received CBT.V508.FILE505.PDS from FILE505.XMI 
+2025-04-15 21:50:30.595828 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$$$#DATE
+2025-04-15 21:50:30.596214 - Found $$MAN.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$$MAN
+2025-04-15 21:50:30.596409 - Found $DOC.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/$DOC
+2025-04-15 21:50:30.596461 - Found @FILE505.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/@FILE505
+2025-04-15 21:50:30.596743 - Found @TEST.txt (text/plain) in CBT.V508.FILE505.PDS, moved to PDS/@TEST
